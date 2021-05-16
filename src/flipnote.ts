@@ -38,6 +38,7 @@ export {
 export {
   GifImage,
   WavAudio,
+  WebVideo
 } from './encoders';
 
 export {
